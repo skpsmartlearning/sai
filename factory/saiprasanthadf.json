@@ -1,0 +1,15 @@
+{
+	"name": "saiprasanthadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "57bc4b57-8421-4361-ad2a-bdab99b09d2e",
+		"tenantId": "780a5da5-11cb-4b1c-a0f0-1e0bdbe18552"
+	}
+}
